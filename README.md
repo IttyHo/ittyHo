@@ -1,104 +1,136 @@
 <div align="center">
 
-# Hi, I'm Itta Horowitz 👋
+# Itta Horowitz
 
 ### Backend & Full-Stack Software Engineer
 
-**Building reliable APIs, data-driven systems, and production software — with AI integrated throughout the engineering workflow.**
+Building reliable APIs, data-driven systems, and production software with a strong focus on clean architecture, delivery quality, and AI-assisted engineering.
 
-Israel · Remote-friendly · Hebrew / English / Yiddish
+[![GitHub](https://img.shields.io/badge/GitHub-IttyHo-181717?style=flat-square&logo=github)](https://github.com/IttyHo)
+![Location](https://img.shields.io/badge/Location-Israel-4C78A8?style=flat-square)
+![Remote](https://img.shields.io/badge/Work-Remote--friendly-5B8C85?style=flat-square)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm a backend-focused full-stack engineer with professional experience building and maintaining business-critical applications across **.NET/C#**, **SQL Server**, modern web frontends, APIs, integrations, and production infrastructure.
+I'm a backend-focused full-stack engineer with professional experience building and maintaining business-critical applications across **C#/.NET, SQL Server, modern web frontends, APIs, integrations, and production environments**.
 
-I enjoy taking software from an ambiguous requirement to a shipped, tested solution: understanding existing systems, designing contracts and data models, implementing backend and UI functionality, validating edge cases, troubleshooting production-style failures, and documenting decisions clearly.
+I enjoy owning work end-to-end: understanding existing systems, clarifying requirements, designing API and data contracts, implementing features, validating edge cases, debugging failures, and documenting technical decisions clearly.
 
-I also use **AI as an engineering system**, not just for code completion — for codebase analysis, implementation planning, architecture review, debugging, refactoring, test design, technical writing, and accelerating end-to-end delivery while keeping engineering judgment and verification in the loop.
-
-## 🧰 Engineering Stack
-
-**Backend**  
-`C#` · `.NET` · `ASP.NET Core` · `Web API` · `Entity Framework Core` · `Node.js` · `Express`
-
-**Frontend**  
-`React` · `Angular` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-**Data & APIs**  
-`SQL Server` · `SQL` · `REST APIs` · `Relational Data Modeling` · `Database Migrations` · `API Integrations`
-
-**Engineering & Delivery**  
-`Git` · `GitHub Actions` · `CI/CD` · `IIS` · `Testing` · `Debugging` · `Observability` · `Authentication & Identity`
-
-**AI-assisted Engineering**  
-`Claude Code` · `ChatGPT` · `Agentic Workflows` · `Codebase Analysis` · `AI-assisted Testing & Review`
+I use **AI as part of the engineering workflow** for codebase analysis, implementation planning, debugging, refactoring, test design, technical writing, and faster iteration — while keeping review and verification in the loop.
 
 ---
 
-## 🚀 Featured Work
+## Core Stack
 
-### 🤖 [Just Code](https://github.com/IttyHo/just-code)
-**Agentic AI development inside VS Code · TypeScript**
+<div align="center">
 
-A developer-tooling project centered on AI-assisted software engineering. It demonstrates agent interactions, editor integration, streaming workflows, permission-aware actions, inline code changes, session state, and extensible tooling concepts.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Highlights:** AI/agent workflows · TypeScript · VS Code extension architecture · developer experience · structured tool integration
+</div>
 
-### ⚙️ [Course Manager API](https://github.com/IttyHo/CourseManager-server)
-**ASP.NET Core · C# · EF Core · SQL Server**
+**Backend:** C# · .NET · ASP.NET Core · Web API · Entity Framework Core · Node.js · Express  
+**Frontend:** Angular · React · TypeScript · JavaScript · HTML · CSS  
+**Data:** SQL Server · relational schema design · complex SQL · migrations · data access  
+**Engineering:** REST APIs · integrations · authentication/identity · testing · debugging · observability · CI/CD · IIS  
+**AI-assisted engineering:** Claude Code · ChatGPT · codebase analysis · implementation planning · test design · technical review
 
-A production-minded backend sample focused on clear API contracts and maintainable data access. The portfolio-hardening work adds request DTOs, validation, async EF Core patterns, safer update semantics, OpenAPI documentation, and CI.
+---
 
-**Highlights:** REST API design · validation · relational persistence · migrations · maintainability · CI
+## Selected Projects
 
-### 🖥️ [Course Manager Client](https://github.com/IttyHo/course-manager-client)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Course Manager API](https://github.com/IttyHo/CourseManager-server)
+
+**C# · ASP.NET Core · EF Core · SQL Server**
+
+A backend portfolio project focused on production-minded API design, explicit request/response contracts, validation, async data access, database migrations, OpenAPI documentation, and CI.
+
+`REST APIs` `EF Core` `Validation` `SQL` `CI`
+
+</td>
+<td width="50%" valign="top">
+
+### [Course Manager Client](https://github.com/IttyHo/course-manager-client)
+
 **Angular · TypeScript · Ionic**
 
-The frontend companion to Course Manager, demonstrating component-based application development and integration with a dedicated backend API.
+Frontend companion to Course Manager, demonstrating component-based UI development, API integration, and ownership across both client and backend surfaces.
 
-**Highlights:** Angular · TypeScript · API integration · responsive application structure
+`Angular` `TypeScript` `API Integration` `Frontend`
 
-### 🔎 [Angular Users Autocomplete](https://github.com/IttyHo/angular-users-autocomplete)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Angular Users Autocomplete](https://github.com/IttyHo/angular-users-autocomplete)
+
 **Angular · TypeScript**
 
-A focused UI implementation demonstrating asynchronous data-driven interaction and reusable frontend behavior.
+A focused frontend sample demonstrating asynchronous user interaction, reusable UI behavior, and clean presentation of a small feature.
+
+`Angular` `Async UI` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [Portfolio](https://github.com/IttyHo/track-n-talk)
+
+A central portfolio repository that brings together selected work, engineering strengths, and project highlights.
+
+`Portfolio` `Selected Work` `Engineering Profile`
+
+</td>
+</tr>
+</table>
+
+> **Note:** [`just-code`](https://github.com/IttyHo/just-code) is a fork used for exploration and learning. I do not present it as an original project or as code authored by me.
 
 ---
 
-## 🧠 How I Build
+## How I Work
 
 ```text
 Understand the system
         ↓
-Clarify contracts & constraints
+Clarify requirements and constraints
         ↓
-Design API + data flow
+Design API, data flow, and contracts
         ↓
 Implement incrementally
         ↓
-Test behavior & edge cases
+Test behavior and edge cases
         ↓
-Review, debug & simplify
+Debug, review, and simplify
         ↓
-Ship with documentation and observability in mind
+Ship with maintainability and observability in mind
 ```
 
-I value **clear contracts, pragmatic architecture, database correctness, useful tests, readable code, and ownership**. I prefer simple solutions that can evolve over unnecessary abstraction.
-
-## ✨ What I'm Interested In
-
-I'm especially interested in challenging **backend and full-stack product engineering** where I can own meaningful features end-to-end, work with complex APIs and data, and use modern AI tooling to improve both product capabilities and engineering velocity.
+I value **clear contracts, pragmatic architecture, database correctness, useful tests, readable code, and ownership**. I prefer solutions that are simple enough to understand and strong enough to evolve.
 
 ---
+
+## Professional Focus
+
+I'm especially interested in **backend and full-stack product engineering** where I can own meaningful features end-to-end, work with complex APIs and data, and use modern AI tooling to improve engineering velocity and software quality.
 
 <div align="center">
 
 ### Explore my work
 
-[**GitHub Projects**](https://github.com/IttyHo?tab=repositories) · [**Just Code**](https://github.com/IttyHo/just-code) · [**Course Manager API**](https://github.com/IttyHo/CourseManager-server)
+[Repositories](https://github.com/IttyHo?tab=repositories) · [Course Manager API](https://github.com/IttyHo/CourseManager-server) · [Course Manager Client](https://github.com/IttyHo/course-manager-client) · [Portfolio](https://github.com/IttyHo/track-n-talk)
 
 </div>
